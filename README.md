@@ -1,12 +1,12 @@
 # ZAIRD Token ⚡ — Official Repository
 
-Welcome to the official repository of **ZIRD**, the hyper-dynamic speed and performance engine of our decentralized blockchain ecosystem. This protocol is engineered to synchronize high-frequency trading psychology, Web3 arcade gaming, and systematic asset rebalancing.
+Welcome to the official repository of **ZAIRD**, the hyper-dynamic speed and performance engine of our decentralized blockchain ecosystem. This protocol is engineered to synchronize high-frequency trading psychology, Web3 arcade gaming, and systematic asset rebalancing.
 
 ---
 
 ## 📊 Market & Liquidity Architecture
 
-ZEIRD operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
+ZAIRD operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
 
 [ZAIRD Token](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x84027d2b2f269bfd39598b0b074dbccf48634549&binanceChainId=56&chain=bsc)
 ---
@@ -35,7 +35,7 @@ The relationship between the core pillars of the ecosystem—
 **ZAARD** (The Foundation), 
 **PANGA** (The Creative Drive),
 **ZARED** (The Evolution), 
-**ZEIRD** (The Velocity)—is governed by the following mathematical distribution:
+**ZAIRD** (The Velocity)—is governed by the following mathematical distribution:
 
 $$Supply_{Total} = \begin{cases} 
 
@@ -45,7 +45,7 @@ $$Supply_{Total} = \begin{cases}
 
 \mathbf{ZARED:} & 750 \text{tokens}\\
 
-\mathbf{ZEIRD:} & 100 \text{tokens}\\
+\mathbf{ZAIRD:} & 100 \text{tokens}\\
 
 end{cases}$$
 
@@ -53,7 +53,7 @@ The systemic asset ratio model between the foundational supply ($S_{Zaard}$), th
 
 $$\frac{S_{Zaard}}{S_{Panga}} = 10 \implies S_{Zaard} = 10 \cdot S_{Panga}$$
 
-$$\text{Scarcity Ratio } (ZIRD) = \frac{100}{900,000} \cdot 100 = 0.0111\% \text{ of the foundational supply.}$$
+$$\text{Scarcity Ratio } (ZAIRD) = \frac{100}{900,000} \cdot 100 = 0.0111\% \text{ of the foundational supply.}$$
 
 ---
 ---
@@ -63,7 +63,7 @@ $$\text{Scarcity Ratio } (ZIRD) = \frac{100}{900,000} \cdot 100 = 0.0111\% \text
 <a name="español"></a>
 ## 📊 Arquitectura de Mercado y Liquidez (Español)
 
-Bienvenido al repositorio oficial de **ZIRD**, el motor hiperdinámico de velocidad y rendimiento de nuestro ecosistema blockchain descentralizado. Este protocolo está diseñado para sincronizar la psicología del trading de alta frecuencia, los juegos arcade Web3 y el rebalanceo sistemático de activos.
+Bienvenido al repositorio oficial de **ZAIRD**, el motor hiperdinámico de velocidad y rendimiento de nuestro ecosistema blockchain descentralizado. Este protocolo está diseñado para sincronizar la psicología del trading de alta frecuencia, los juegos arcade Web3 y el rebalanceo sistemático de activos.
 
 ---
 ---
@@ -97,7 +97,7 @@ La relación entre los pilares fundamentales del ecosistema—
 **ZAARD** (La Fundación),
 **PANGA** (La Fuerza Creativa),
 **ZARED** (La Evolución)
-**ZIRD** (La Velocidad)
+**ZAIRD** (La Velocidad)
 —está gobernada por la siguiente distribución matemática:
 
 $$Suministro_{Total} = \begin{cases}
@@ -108,7 +108,7 @@ $$Suministro_{Total} = \begin{cases}
 
 \mathbf{ZARED:} & 750 \text{ tokens}\\
 
-\mathbf{ZIRD:} & 100 \text{ tokens}\\
+\mathbf{ZAIRD:} & 100 \text{ tokens}\\
 
 end{cases}$$
 
@@ -116,7 +116,7 @@ El modelo de ratio de activos sistémicos entre el suministro fundacional ($S_{Z
 
 $$\frac{S_{Zaard}}{S_{Panga}} = 10 \implies S_{Zaard} = 10 \cdot S_{Panga}$$
 
-$$\text{Ratio de Escasez } (ZIRD) = \frac{100}{900,000} \cdot 100 = 0.0111\% \text{ del suministro fundacional.}$$
+$$\text{Ratio de Escasez } (ZAIRD) = \frac{100}{900,000} \cdot 100 = 0.0111\% \text{ del suministro fundacional.}$$
 
 ---
 
