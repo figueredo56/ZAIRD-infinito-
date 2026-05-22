@@ -14,7 +14,7 @@ ZAIRD operates with a highly concentrated, secure, and audited liquidity structu
 
 ### 🔒 Core Protocol Addresses
 * **Official Liquidity Pool Pair (Pancakeswap V2):** `0xC17Cf3b889D9476eE6b2B74428bB3FDf55894B76`
-* **Base Asset Pair:** ZEIRD/WBNB
+* **Base Asset Pair:** ZAIRD/WBNB
 
 ### 📈 Tokenomics & Holder Concentration Analysis
 Following strict institutional metrics tracked via on-chain analytics (`Ave.ai` data integration):
@@ -75,7 +75,7 @@ Bienvenido al repositorio oficial de **ZAIRD**, el motor hiperdinámico de veloc
 
 ### 🔒 Direcciones Clave del Protocolo
 * **Par Oficial del Pool de Liquidez (Pancakeswap V2):** `0xC17Cf3b889D9476eE6b2B74428bB3FDf55894B76`
-* **Activo Base del Par:** ZIRD/WBNB
+* **Activo Base del Par:** ZAIRD/WBNB
 
 ### 📈 Tokenomics y Análisis de Concentración de Holders
 Siguiendo métricas institucionales estrictas rastreadas mediante análisis on-chain (datos integrados de `Ave.ai`):
