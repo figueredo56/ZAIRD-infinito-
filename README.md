@@ -1,6 +1,6 @@
 ![logo zaird](https://raw.githubusercontent.com/figueredo56/ZIRD-infinito-/178cb6d8cae49079bf492586182ac1b238e67e5e/CC_20260522_154445.svg)
 
-# ZAIRD Token ⚡ — Official Repository
+# Z.INFINIX Token ⚡ — Official Repository
 
 Welcome to the official repository of **ZAIRD**, the hyper-dynamic speed and performance engine of our decentralized blockchain ecosystem. This protocol is engineered to synchronize high-frequency trading psychology, Web3 arcade gaming, and systematic asset rebalancing.
 
@@ -8,7 +8,7 @@ Welcome to the official repository of **ZAIRD**, the hyper-dynamic speed and per
 
 ## 📊 Market & Liquidity Architecture
 
-ZAIRD operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
+Z. operates with a highly concentrated, secure, and audited liquidity structure designed to prevent external manipulation and maximize scarcity.
 
 [ZAIRD Token](https://app.binance.com/uni-qr/web3-token-details?utm_medium=share&tokenCA=0x84027d2b2f269bfd39598b0b074dbccf48634549&binanceChainId=56&chain=bsc)
 ---
@@ -37,7 +37,7 @@ The relationship between the core pillars of the ecosystem—
 **ZAARD** (The Foundation), 
 **PANGA** (The Creative Drive),
 **ZARED** (The Evolution), 
-**ZAIRD** (The Velocity)—is governed by the following mathematical distribution:
+**Z.** (The Velocity)—is governed by the following mathematical distribution:
 
 $$Supply_{Total} = \begin{cases} 
 
